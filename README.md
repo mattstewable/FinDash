@@ -29,11 +29,11 @@ The focus of this project is to use React to create a beautiful dashboard.
 
 |                                                                           Mobile                                                                            |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![Mobile](https://github.com/Henry-Cook/Budget-Dashboard/blob/master/New%20Project%20Pictures/Screen%20Shot%202020-08-01%20at%2010.31.14%20AM.png?raw=true) |
+| ![Mobile](https://github.com/mattstewable/FinDash/blob/master/New%20Project%20Pictures/Screen%20Shot%202020-08-01%20at%2010.31.14%20AM.png?raw=true) |
 
 |                                                                           Desktop                                                                            |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![desktop](https://github.com/Henry-Cook/Budget-Dashboard/blob/master/New%20Project%20Pictures/Screen%20Shot%202020-08-01%20at%2010.23.32%20AM.png?raw=true) |
+| ![desktop](https://github.com/mattstewable/FinDash/blob/master/New%20Project%20Pictures/Screen%20Shot%202020-08-01%20at%2010.23.32%20AM.png?raw=true) |
 
 Made with [wireframe.cc](https://wireframe.cc/)
 
@@ -64,7 +64,7 @@ Made with [wireframe.cc](https://wireframe.cc/)
 
 ## Priority Matrix
 
-![Priority-Matrix](https://github.com/Henry-Cook/Budget-Dashboard/blob/master/New%20Project%20Pictures/Project2Matrix.png?raw=true)
+![Priority-Matrix](https://github.com/mattstewable/FinDash/blob/master/New%20Project%20Pictures/Project2Matrix.png?raw=true)
 
 ## Timeframes
 
